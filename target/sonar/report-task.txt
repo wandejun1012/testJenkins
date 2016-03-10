@@ -1,0 +1,5 @@
+projectKey=com.germmy:testmaven
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.germmy:testmaven
+ceTaskId=AVNfAeiW_NMu2nTz9OL3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVNfAeiW_NMu2nTz9OL3
